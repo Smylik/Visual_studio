@@ -1,2 +1,3 @@
 ﻿  Source.cpp
+C:\Users\Kirill\Desktop\Задачки для Visual Studio\Visual_studio\Exercise_3\Cycles\Cycles\Source.cpp(29,25): warning C4554: "&": проверьте приоритет операторов на ошибки; для уточнения приоритета используйте скобки
   Cycles.vcxproj -> C:\Users\Kirill\Desktop\Задачки для Visual Studio\Visual_studio\Exercise_3\Cycles\x64\Debug\Cycles.exe
